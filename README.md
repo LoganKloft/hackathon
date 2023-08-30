@@ -1,4 +1,4 @@
-# Project for Crimson Code Hackathon 2021--
+# Project for Crimson Code Hackathon 2021
 Created by: Chandler, Logan, and Jeremiah
 
 Competed in TIER 2 (for students who are early on in their college career)
